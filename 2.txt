@@ -1,0 +1,2 @@
+add a test by file 2
+i caek git
